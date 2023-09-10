@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main() {
+int main_printfscanf() {
 	//정수형 변수에 대한 예제
 	/*int age = 12;
 	printf("%d\n", age);
@@ -78,5 +78,6 @@ int main() {
 	
 	printf("당신의 이름은 %s이며,\n나이는 %d이고\n몸무게는 %.2f이며\n,키는 %.2f이다.\n범죄명은 %s이다.", name, age, weight, height, crime);
 	
+
 	return 0;
 }
